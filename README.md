@@ -18,12 +18,14 @@ The goal of **SM Hospital Frontend** is to provide a **user-friendly** and **eff
 
 ## 🛠 Technologies Used  
 
-# React.js – Frontend UI framework for building dynamic web interfaces.
-# Vite – Fast and optimized development server and build tool.
-# Tailwind CSS – Utility-first CSS framework for modern, responsive design.
-# React Router – Client-side routing for seamless navigation.
-# Axios (If used) – Handling API requests and responses.
-# Git & GitHub – Version control and project collaboration.
+| Technology        | Purpose |
+|------------------|---------|
+| **React.js**     | Frontend UI framework for building dynamic web interfaces. |
+| **Vite**         | Fast and optimized development server and build tool. |
+| **Tailwind CSS** | Utility-first CSS framework for modern, responsive design. |
+| **React Router** | Client-side routing for seamless navigation. |
+| **Axios**        | Handling API requests and responses. *(If used)* |
+| **Git & GitHub** | Version control and project collaboration. |
 
 ---
 
