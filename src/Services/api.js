@@ -2,7 +2,7 @@ import axios from "axios";
 
 const api = axios.create(
     {
-        baseURL: "http://localhost:4000/api",
+        baseURL: "https://hospital-website-backend-lela.onrender.com/api",
     }
 )
 api.interceptors.request.use(
